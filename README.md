@@ -1,44 +1,76 @@
-# 👋 Hi there, I'm [Shaik Saman]
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-## 🚀 About Me
-I'm a passionate Full Stack Developer with a knack for creating robust and scalable web applications. I thrive on bridging the gap between front-end aesthetics and back-end functionality, always aiming to deliver seamless user experiences backed by solid, efficient code.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shaik+Saman!;" />
+</h1>
 
-## 🛠 Skills
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Vue.js, Angular
-- **Backend:** Node.js, Express.js, Python (Django/Flask), Ruby on Rails
-- **Databases:** MongoDB, PostgreSQL, MySQL, Redis
-- **Version Control:** Git, GitHub
-- **API Development:** RESTful APIs, GraphQL
-- **THIS SKILLS WILL APPLY SOON
+<h3 align="center">A passionate Full Stack Developer Form India</h3>
 
-## 🔭 Current Projects
-- ** CURRENTLY WORKING
+<br/>
 
-## 🌱 I'm currently learning
-- Advanced GraphQL patterns
-- Serverless architecture with AWS Lambda
-- Machine Learning integration in web applications
+<div align="center">
+ 
+ 🔭 I’m currently **Fresher**
+ 
+ 🌱 I’m currently learning **React,MangoDB,Git**
 
-## 💼 Work Experience
-- Fresher
+💬 Ask me about **JavaScript, Html, Css... or anything [here]([https://github.com/salesp07/salesp07/issues](https://github.com/samanshaik2020?tab=repositories))**
 
-## 🎓 Education
-- Bachelor of Science in Computer Science from Rise Krishna Sai Prakasam group of Instituitions
+⚡ Fun fact **Did you know? I can solve a Rubik's cube in under 2 minutes! It's not just about algorithms - it's about seeing patterns and solving problems quickly, skills I bring to my coding every day.**
 
-## 📫 How to reach me
-- LinkedIn: [https://www.linkedin.com/in/saman-shaik-15a85222b/]
-- Email: [samanshaik2020@gmail.com]
-- Portfolio: [Your portfolio website]
+ </div>
+ 
+<div align="center"> 
+  <a href="samanshaik2020@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="[https://linkedin.com/in/pedro-sales-muniz](https://www.linkedin.com/in/saman-shaik-15a85222b/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
-## 🏆 GitHub Trophies
-![Your GitHub trophies](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=onedark)
+<br/>
+<hr/>
 
-## 📈 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
----
+<hr/>
 
-⭐️ From [YourGitHubUsername](https://github.com/samanshaik2020)
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=shaiksaman&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=shaiksaman&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
